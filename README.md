@@ -16,7 +16,7 @@
 1. [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by Kevin Patrick Murphy
 2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
 3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013)
-4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
+4.  [Deep Learning Tutorial](http://pubs.sciepub.com/iteces/4/2/2/index.html) by LISA lab, University of Montreal (Jan 6 2015)
 5.  [neuraltalk](https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
 6.  [An introduction to genetic algorithms](http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
@@ -36,3 +36,41 @@
 21. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf) by Aurélien Géron  | Oct 15, 2019
 22. [The Elements of Statistical Learning
 Data Mining, Inference, and Prediction, Second Edition](https://link.springer.com/content/pdf/10.1007/978-0-387-84858-7.pdf) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
+23. [Dive into Deep Learning](https://d2l.ai/)
+
+
+
+# papers 
+I found this [REPO](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) more usefuel for papers The roadmap is constructed in accordance with the following four guidelines:
+
+- From outline to detail
+- From old to state-of-the-art
+- from generic to specific areas
+- focus on state-of-the-art
+
+# Conferences
+
+1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
+2. [AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems](http://celweb.vuse.vanderbilt.edu/aamas18/)
+3. [IJCAI - 	International Joint Conference on Artificial Intelligence](https://www.ijcai-18.org/)
+4. [ICML - 	International Conference on Machine Learning](https://icml.cc)
+5. [ECML - European Conference on Machine Learning](http://www.ecmlpkdd2018.org)
+6. [KDD - Knowledge Discovery and Data Mining](http://www.kdd.org/kdd2018/)
+7. [NIPS - Neural Information Processing Systems](https://nips.cc/Conferences/2018)
+8. [O'Reilly AI Conference - 	O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny)
+9. [ICDM - International Conference on Data Mining](https://www.waset.org/conference/2018/07/istanbul/ICDM)
+10. [ICCV - International Conference on Computer Vision](http://iccv2017.thecvf.com)
+11. [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
+12. [MAIS - Montreal AI Symposium](https://montrealaisymposium.wordpress.com/)
+
+
+# Tools
+
+1.  [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
+2.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
+2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
+3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
+4.  [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - Develop, debug and deploy deep learning and AI solutions
+5.  [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
+6.  [Kaggle](https://www.kaggle.com/)
+7.  [Azure](https://portal.azure.com/#home)
