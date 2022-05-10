@@ -74,3 +74,24 @@ I found this [REPO](https://github.com/floodsung/Deep-Learning-Papers-Reading-Ro
 5.  [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
 6.  [Kaggle](https://www.kaggle.com/)
 7.  [Azure](https://portal.azure.com/#home)
+
+# Educatinal websites and Helpful 
+1. [kdnuggets](https://www.kdnuggets.com/)
+2. [Machine Learning Mastery](https://machinelearningmastery.com/)
+3. [Analytics Vidhya](https://www.analyticsvidhya.com/)
+4. [AWS » Machine Learning Blog](https://aws.amazon.com/ar/blogs/machine-learning/)
+5. [Google AI](https://ai.googleblog.com/)
+6. [Carnegie Mellon University | Machine Learning Blog](https://blog.ml.cmu.edu/)
+7. [BigML.com | Machine Learning Made Simple](https://blog.bigml.com/)
+8. [Medium » Machine Learning](https://medium.com/topic/machine-learning)
+9. [Open Data Science » Machine Learning](https://opendatascience.com/category/modeling/machine-learning/)
+10. [ OpenAI Blog](https://openai.com/blog/)
+11. [ Letting neural networks be weird](https://www.aiweirdness.com/)
+12. [Neuroscience News - Deep Learning](https://neurosciencenews.com/neuroscience-topics/deep-learning/)
+
+# RoadMap WEBsite 
+## AI Expert Roadmap
+[HERE](https://i.am.ai/roadmap/#deep-learning-roadmap)
+![screenshot-i am ai-2022 05 10-19_05_59](https://user-images.githubusercontent.com/61054665/167684294-81f75737-1a7e-45ef-9134-3c5eccf68368.png)
+
+
