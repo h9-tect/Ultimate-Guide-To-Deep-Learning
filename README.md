@@ -96,3 +96,5 @@ I found this [REPO](https://github.com/floodsung/Deep-Learning-Papers-Reading-Ro
 ![screenshot-i am ai-2022 05 10-19_05_59](https://user-images.githubusercontent.com/61054665/167684294-81f75737-1a7e-45ef-9134-3c5eccf68368.png)
 
 
+# Another Resources 
+[my repo](https://github.com/h9-tect/ML-Dl_resources-)
